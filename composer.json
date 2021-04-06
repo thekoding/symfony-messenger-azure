@@ -22,7 +22,7 @@
     },
     "require": {
         "php": ">=7.1.0",
-        "microsoft/windowsazure": "^0.5",
+        "microsoft/windowsazure": "*",
         "ext-json": "*"
     },
     "require-dev": {
